@@ -1,1 +1,31 @@
-
+response_id,user_id,question_id,rating_score,survey_date,response_text
+1,user_001,voice_search,4,2024-07-15,Works well most of the time
+2,user_001,recommendations,5,2024-07-15,Love the suggestions
+3,user_001,interface,4,2024-07-15,Clean and easy to use
+4,user_002,voice_search,2,2024-07-16,Often doesn't understand me
+5,user_002,recommendations,3,2024-07-16,Sometimes irrelevant
+6,user_002,interface,5,2024-07-16,Beautiful design
+7,user_003,voice_search,5,2024-07-17,Perfect every time
+8,user_003,recommendations,4,2024-07-17,Pretty good suggestions
+9,user_003,interface,3,2024-07-17,Could be more intuitive
+10,user_004,voice_search,1,2024-07-18,Never works properly
+11,user_004,recommendations,2,2024-07-18,Poor suggestions
+12,user_004,interface,3,2024-07-18,Okay but confusing
+13,user_005,voice_search,5,2024-07-19,Amazing feature
+14,user_005,recommendations,5,2024-07-19,Always spot on
+15,user_005,interface,4,2024-07-19,Very user friendly
+16,user_006,voice_search,3,2024-07-20,Works sometimes
+17,user_006,recommendations,4,2024-07-20,Good variety
+18,user_006,interface,5,2024-07-20,Love the layout
+19,user_007,voice_search,4,2024-07-21,Mostly reliable
+20,user_007,recommendations,3,2024-07-21,Hit or miss
+21,user_007,interface,4,2024-07-21,Clean interface
+22,user_008,voice_search,2,2024-07-22,Frustrating to use
+23,user_008,recommendations,4,2024-07-22,Some great finds
+24,user_008,interface,3,2024-07-22,Average design
+25,user_009,voice_search,5,2024-07-23,Works flawlessly
+26,user_009,recommendations,5,2024-07-23,Perfect matches
+27,user_009,interface,5,2024-07-23,Excellent design
+28,user_010,voice_search,3,2024-07-24,Decent performance
+29,user_010,recommendations,3,2024-07-24,Could be better
+30,user_010,interface,4,2024-07-24,Pretty good
