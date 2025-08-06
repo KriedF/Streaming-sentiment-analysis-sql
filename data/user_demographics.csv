@@ -1,1 +1,11 @@
-
+user_id,age_group,subscription_type,region,signup_date
+user_001,25-34,premium,west_coast,2024-01-15
+user_002,35-44,free,east_coast,2024-02-20
+user_003,18-24,premium,midwest,2024-03-10
+user_004,45-54,free,south,2024-01-05
+user_005,25-34,premium,west_coast,2024-04-12
+user_006,35-44,premium,east_coast,2024-02-28
+user_007,18-24,free,midwest,2024-03-15
+user_008,45-54,free,south,2024-01-30
+user_009,25-34,premium,west_coast,2024-04-01
+user_010,35-44,free,east_coast,2024-02-14
