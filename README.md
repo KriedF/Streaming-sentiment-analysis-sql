@@ -1,7 +1,7 @@
 # Streaming Platform User Satisfaction Analysis
 
 ## 🎯 Business Problem
-Streaming platforms like Roku need to understand which features drive user satisfaction and retention. This project analyzes user feedback data to identify improvement opportunities and measure the impact of product decisions.
+Streaming platforms need to understand which features drive user satisfaction and retention. This project analyzes user feedback data to identify improvement opportunities and measure the impact of product decisions.
 
 ## 🔍 Key Questions Answered
 1. **Which features have the highest/lowest satisfaction rates?**
@@ -60,4 +60,4 @@ This project demonstrates the exact analytical workflow used by consumer insight
 - **GitHub**: Project organization and documentation
 
 ---
-*This project showcases analytical skills applicable to consumer insights roles at companies like Roku, Netflix, and other streaming platforms.*
+*This project exemplifies how quantitative analysis complements qualitative UX research to provide comprehensive user insights that drive product design improvements.*
