@@ -34,13 +34,18 @@ Streaming platforms like Roku need to understand which features drive user satis
 4. **Age-specific optimizations** - tailor features to different user demographics
 
 ## 📁 Project Structure
-├── data/                          # Sample datasets
-│   ├── survey_responses.csv       # User satisfaction ratings
-│   └── user_demographics.csv      # User profile information
-├── sql_queries/                   # Analysis queries
-│   ├── 01_data_exploration.sql    # Basic satisfaction metrics
-│   └── 02_satisfaction_metrics.sql # Advanced segmentation analysis
-└── README.md                      # Project documentation
+
+**Data Files:**
+- `data/survey_responses.csv` - User satisfaction ratings and feedback
+- `data/user_demographics.csv` - User profile and subscription information
+
+**SQL Analysis:**
+- `sql_queries/01_data_exploration.sql` - Basic satisfaction metrics and feature comparison
+- `sql_queries/02_satisfaction_metrics.sql` - Advanced user segmentation analysis
+
+**Documentation:**
+- `README.md` - Project overview and business insights
+- `methodology.md` - Analytical approach and assumptions
 
 ## 🚀 Skills Relevant to Consumer Insights Roles
 This project demonstrates the exact analytical workflow used by consumer insights teams at streaming platforms:
